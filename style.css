@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto+Mono&display=swap');
+
+
+
+
+
+body {
+    background-color: #a96bac53; 
+}
+
+
+
+.img {
+    border-image-outset: 5rem;
+
+
+
+}
+
+
+li{display: inline;
+text-align: center;
+padding: 30px;
+
+
+
+}
+
+li:hover{background-color: black;
+color: aliceblue;}
+
+
+
+.box {
+    border: 10px solid #86448a00;
+    padding: 3px 410px 10px;
+    margin: 20px;
+    font-family: Roboto Mono;
+}
+
+h1 {
+    text-shadow: 4px 4px 5px rgb(228, 178, 84), 5px 5px 3px black;
+    text-align: center;
+    font-size: 3.5rem;
+    color: rgb(16, 16, 15);
+
+
+}
+
+.body {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.24rem
+}
+
+
+
+.one {
+    line-height: 2rem;
+    text-transform: capitalize;
+    text-align-last: right;
+    text-indent: 30px;
+    letter-spacing: 0.02rem;
+    line-height: 1.2rem;
+    word-spacing: 3px;
+    font-size: large;
+    font-weight: 20;
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    padding: 0px 10px 8px 350px;
+    
+}
+
+.two {
+    line-height: 1.2rem;
+    text-transform: capitalize;
+    text-align-last: center;
+    text-indent: 30px;
+    letter-spacing: 0.02rem;
+    word-spacing: 3px;
+    font-size: large;
+    font-weight: 20;
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    padding: 0px 10px 8px 350px;
+    font-size: larger;
+
+
+
+}
+
+
+div {
+    text-align: -webkit-match-parent;
+    ;
+    font-size: 1.2rem;
+    text-align-last: center;
+    font-weight: 800;
+    word-spacing: -5px;
+}
+
+
+
+
+
+.apple {
+    text-decoration-thickness: 3px;
+    text-decoration-line: underline;
+    text-decoration-color: orange;
+    text-decoration-style: dashed;
+
+
+
+}
+
+.a {
+    font-family: 'Roboto Mono', monospace;
+    display: inline-block;
+}
+
+
+
+
+.banana {
+    text-decoration-thickness: 3px;
+    text-decoration-line: underline;
+    text-decoration-color: orange;
+    text-decoration-style: dashed;
+
+
+
+}
+
+.b {
+    font-family: 'Roboto Mono', monospace;
+    display: inline-block;
+    position: relative;
+    right: 80px;
+}
+
+
+
+
+
+.cat {
+    text-decoration-thickness: 3px;
+    text-decoration-line: underline;
+    text-decoration-color: orange;
+    text-decoration-style: dashed;
+
+
+
+}
+
+.c {
+    font-family: 'Roboto Mono', monospace;
+    display: inline-block;
+    position: relative;
+    right: 95px;
+    
+}
+
+.middletop{word-spacing: 5px;}
